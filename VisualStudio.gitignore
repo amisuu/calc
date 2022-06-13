@@ -97,6 +97,10 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.calc.csproj
+obj/
+bin/Debug/net5.0
+.vs/calc
 
 # Chutzpah Test files
 _Chutzpah*
